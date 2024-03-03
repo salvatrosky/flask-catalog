@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "catalog_id": 1,
+        "title": "Diamond Dragon Sword",
+        "description": "An ancient sword forged by dragons.",
+        "image": "https://example.com/diamond-dragon-sword.jpg"
+    },
+    {
+        "id": 2,
+        "catalog_id": 1,
+        "title": "Ethereal Crystal Pendant",
+        "description": "A magical pendant that grants its wearer protection from dark forces.",
+        "image": "https://example.com/ethereal-crystal-pendant.jpg"
+    },
+    {
+        "id": 3,
+        "catalog_id": 1,
+        "title": "Scepter of the Mystic Realm",
+        "description": "A powerful scepter capable of channeling arcane energies.",
+        "image": "https://example.com/scepter-of-the-mystic-realm.jpg"
+    },
+    {
+        "id": 4,
+        "catalog_id": 1,
+        "title": "Phoenix Feather Cloak",
+        "description": "A cloak made from the feathers of a phoenix, providing protection from flames.",
+        "image": "https://example.com/phoenix-feather-cloak.jpg"
+    },
+    {
+        "id": 5,
+        "catalog_id": 1,
+        "title": "Amulet of Eternal Wisdom",
+        "description": "An amulet that bestows infinite knowledge upon its wearer.",
+        "image": "https://example.com/amulet-of-eternal-wisdom.jpg"
+    },
+    {
+        "id": 6,
+        "catalog_id": 2,
+        "title": "Orb of the Celestial Nexus",
+        "description": "A mystical orb capable of opening portals to other dimensions.",
+        "image": "https://example.com/orb-of-the-celestial-nexus.jpg"
+    },
+    {
+        "id": 7,
+        "catalog_id": 2,
+        "title": "Crystal Shard Gauntlets",
+        "description": "Gauntlets infused with shards of magical crystals, enhancing the wearer's strength.",
+        "image": "https://example.com/crystal-shard-gauntlets.jpg"
+    },
+    {
+        "id": 8,
+        "catalog_id": 2,
+        "title": "Enchanted Elven Bow",
+        "description": "A bow crafted by ancient elves, imbued with the power of nature.",
+        "image": "https://example.com/enchanted-elven-bow.jpg"
+    },
+    {
+        "id": 9,
+        "catalog_id": 2,
+        "title": "Cloak of Invisibility",
+        "description": "A cloak that renders its wearer invisible to the naked eye.",
+        "image": "https://example.com/cloak-of-invisibility.jpg"
+    },
+    {
+        "id": 10,
+        "catalog_id": 2,
+        "title": "Staff of the Arcane Sage",
+        "description": "A staff wielded by legendary wizards, capable of casting powerful spells.",
+        "image": "https://example.com/staff-of-the-arcane-sage.jpg"
+    },
+    {
+        "id": 11,
+        "catalog_id": 3,
+        "title": "Dragon Scale Armor",
+        "description": "Armor forged from the scales of a dragon, providing exceptional protection.",
+        "image": "https://example.com/dragon-scale-armor.jpg"
+    },
+    {
+        "id": 12,
+        "catalog_id": 3,
+        "title": "Crown of the Eternal Monarch",
+        "description": "A crown worn by the ruler of the immortal kingdom, granting sovereignty over all lands.",
+        "image": "https://example.com/crown-of-the-eternal-monarch.jpg"
+    },
+    {
+        "id": 13,
+        "catalog_id": 3,
+        "title": "Thunderbolt Warhammer",
+        "description": "A mighty warhammer capable of summoning thunderstorms with each strike.",
+        "image": "https://example.com/thunderbolt-warhammer.jpg"
+    },
+    {
+        "id": 14,
+        "catalog_id": 3,
+        "title": "Lunar Eclipse Dagger",
+        "description": "A dagger imbued with the power of the lunar eclipse, increasing its lethality under moonlight.",
+        "image": "https://example.com/lunar-eclipse-dagger.jpg"
+    },
+    {
+        "id": 15,
+        "catalog_id": 3,
+        "title": "Aegis of the Divine Guardian",
+        "description": "A shield blessed by the gods, providing invincible defense to its bearer.",
+        "image": "https://example.com/aegis-of-the-divine-guardian.jpg"
+    },
+    {
+        "id": 16,
+        "catalog_id": 4,
+        "title": "Emerald Eye Ring",
+        "description": "A ring adorned with a rare emerald that enhances the wearer's vision.",
+        "image": "https://example.com/emerald-eye-ring.jpg"
+    },
+    {
+        "id": 17,
+        "catalog_id": 4,
+        "title": "Frostbite Blade",
+        "description": "A sword infused with the chill of the icy tundra, freezing foes upon contact.",
+        "image": "https://example.com/frostbite-blade.jpg"
+    },
+    {
+        "id": 18,
+        "catalog_id": 4,
+        "title": "Phoenix Feather Quill",
+        "description": "A quill made from the feathers of a phoenix, granting inspiration to writers.",
+        "image": "https://example.com/phoenix-feather-quill.jpg"
+    },
+    {
+        "id": 19,
+        "catalog_id": 4,
+        "title": "Soulstone Pendant",
+        "description": "A pendant containing a soulstone that can capture and store souls.",
+        "image": "https://example.com/soulstone-pendant.jpg"
+    },
+    {
+        "id": 20,
+        "catalog_id": 4,
+        "title": "Mystic Rune Circlet",
+        "description": "A circlet engraved with ancient runes, bestowing magical abilities upon its wearer.",
+        "image": "https://example.com/mystic-rune-circlet.jpg"
+    },
+    {
+        "id": 21,
+        "catalog_id": 5,
+        "title": "Shardblade of the Fallen",
+        "description": "A blade forged from the shards of a fallen comet, cutting through armor like paper.",
+        "image": "https://example.com/shardblade-of-the-fallen.jpg"
+    },
+    {
+        "id": 22,
+        "catalog_id": 5,
+        "title": "Ethereal Silk Robes",
+        "description": "Robes woven from ethereal silk, providing protection and comfort to the wearer.",
+        "image": "https://example.com/ethereal-silk-robes.jpg"
+    },
+    {
+        "id": 23,
+        "catalog_id": 5,
+        "title": "Wand of the Archmagus",
+        "description": "A wand wielded by the archmagus, capable of casting spells of immense power.",
+        "image": "https://example.com/wand-of-the-archmagus.jpg"
+    },
+    {
+        "id": 24,
+        "catalog_id": 5,
+        "title": "Starlight Tiara",
+        "description": "A tiara adorned with starlight, enhancing the wearer's beauty and charm.",
+        "image": "https://example.com/starlight-tiara.jpg"
+    },
+    {
+        "id": 25,
+        "catalog_id": 5,
+        "title": "Shadowcloak Cloak",
+        "description": "A cloak woven from the shadows, granting its wearer the ability to blend into darkness.",
+        "image": "https://example.com/shadowcloak-cloak.jpg"
+    }
+]
